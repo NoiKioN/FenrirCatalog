@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="config/font-awesome/font-awesome.min.css"/>
