@@ -1,0 +1,13 @@
+$margin-top: 70px;
+$background-color: #222;
+$body-background-color: #888;
+
+body{
+    margin-top: $margin-top;
+    background-color: $background-color;
+    
+    #body{
+        background-color: $body-background-color;
+        min-height: 800px;
+    }
+}
